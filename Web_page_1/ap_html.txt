@@ -1,0 +1,11 @@
+<!DOCTYPE html>: Esta etiqueta define el tipo de documento que estás creando, en este caso, un documento HTML5.
+<html>: Esta etiqueta abre la sección HTML del documento y encierra todo el contenido HTML.
+<head>: Esta etiqueta define la sección de encabezado de la página web y se utiliza para incluir información sobre la página,
+        como el título de la página, enlaces a hojas de estilo y otros metadatos.
+
+<title>: Esta etiqueta define el título de la página web, que aparece en la pestaña del navegador.
+<body>: Esta etiqueta define la sección del cuerpo de la página web y se utiliza para incluir todo el contenido visible de la página,
+        como encabezados, párrafos, imágenes, etc.
+
+<h1>: Esta etiqueta define un encabezado de primer nivel, que se utiliza para el título principal de la página.
+<p>: Esta etiqueta define un párrafo de texto.
